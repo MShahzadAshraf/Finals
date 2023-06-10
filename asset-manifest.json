@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Finals/static/css/main.4df33e0e.css",
-    "main.js": "/Finals/static/js/main.5f426153.js",
+    "main.css": "/Finals/static/css/main.bdd8402b.css",
+    "main.js": "/Finals/static/js/main.a5c74308.js",
     "static/js/787.4aad1aee.chunk.js": "/Finals/static/js/787.4aad1aee.chunk.js",
     "static/media/Artificial Intelligence.png": "/Finals/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
     "static/media/Programming.png": "/Finals/static/media/Programming.0bf799fe1f5f79814d30.png",
@@ -14,12 +14,12 @@
     "static/media/Mental Development.png": "/Finals/static/media/Mental Development.ae546dc6ece903c521a4.png",
     "static/media/whatsappIcon.png": "/Finals/static/media/whatsappIcon.d73c2b57fe95df1785ba.png",
     "index.html": "/Finals/index.html",
-    "main.4df33e0e.css.map": "/Finals/static/css/main.4df33e0e.css.map",
-    "main.5f426153.js.map": "/Finals/static/js/main.5f426153.js.map",
+    "main.bdd8402b.css.map": "/Finals/static/css/main.bdd8402b.css.map",
+    "main.a5c74308.js.map": "/Finals/static/js/main.a5c74308.js.map",
     "787.4aad1aee.chunk.js.map": "/Finals/static/js/787.4aad1aee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4df33e0e.css",
-    "static/js/main.5f426153.js"
+    "static/css/main.bdd8402b.css",
+    "static/js/main.a5c74308.js"
   ]
 }
